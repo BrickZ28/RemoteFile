@@ -1,5 +1,5 @@
 {
-    "name": "michaeldrennen/remote-file",
+    "name": "brickz28/remotefile",
     "description": "A PHP package to handle remote file downloads.",
     "type": "library",
     "license": "MIT",
