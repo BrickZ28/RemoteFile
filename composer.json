@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "MichaelDrennen\\RemoteFile\\": "src/"
+            "RemoteFile\\": "src/"
         }
     },
     "minimum-stability": "stable"
