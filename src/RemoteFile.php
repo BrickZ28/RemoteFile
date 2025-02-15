@@ -1,9 +1,9 @@
 <?php
-namespace MichaelDrennen\RemoteFile;
+namespace RemoteFile;
 
 use Carbon\Carbon;
-use MichaelDrennen\RemoteFile\Exceptions\GetHeadersError;
-use MichaelDrennen\RemoteFile\Exceptions\MissingLastModifiedHeader;
+use RemoteFile\Exceptions\GetHeadersError;
+use RemoteFile\Exceptions\MissingLastModifiedHeader;
 
 class RemoteFile {
 
